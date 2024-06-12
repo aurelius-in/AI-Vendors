@@ -1,0 +1,42 @@
+[
+    {
+        "name": "OpenAI",
+        "category": "Generative AI",
+        "features": ["Language Models", "Chatbots", "Content Generation"],
+        "rating": 5,
+        "reviews": ["Innovative technology", "Pioneers in AI"],
+        "description": "OpenAI is a leader in generative AI, renowned for its development of advanced language models such as GPT-4. Their technologies are used across various applications, including chatbots, content creation, and automation, providing cutting-edge solutions for businesses."
+    },
+    {
+        "name": "Hugging Face",
+        "category": "AI Infrastructure",
+        "features": ["Model Hosting", "Collaborative Tools", "Open-source"],
+        "rating": 5,
+        "reviews": ["Great community support", "Highly collaborative"],
+        "description": "Hugging Face is an AI infrastructure platform focused on open-source development. It offers a wide range of tools for hosting, training, and deploying machine learning models, making it a favorite among AI researchers and developers for its collaborative environment and robust support."
+    },
+    {
+        "name": "DataRobot",
+        "category": "Machine Learning",
+        "features": ["Automated ML", "Predictive Analytics", "Model Deployment"],
+        "rating": 4,
+        "reviews": ["User-friendly interface", "Excellent support"],
+        "description": "DataRobot provides automated machine learning solutions that simplify the process of building and deploying predictive models. Their platform is designed to accelerate AI adoption, offering user-friendly interfaces and comprehensive support for various machine learning tasks."
+    },
+    {
+        "name": "IBM Watson",
+        "category": "Enterprise AI",
+        "features": ["AI Analytics", "Natural Language Processing", "Cognitive Computing"],
+        "rating": 4,
+        "reviews": ["Reliable and scalable", "Trusted by enterprises"],
+        "description": "IBM Watson is a robust AI platform offering a suite of enterprise-grade AI tools. Known for its capabilities in natural language processing, AI analytics, and cognitive computing, IBM Watson supports large-scale AI implementations across various industries, ensuring reliability and scalability."
+    },
+    {
+        "name": "C3 AI",
+        "category": "Enterprise AI",
+        "features": ["AI Suite", "Predictive Analytics", "Industry Solutions"],
+        "rating": 4,
+        "reviews": ["Highly effective", "Tailored solutions"],
+        "description": "C3 AI specializes in enterprise AI, providing an extensive suite of tools designed for predictive analytics and industry-specific solutions. Their AI suite helps businesses leverage AI to enhance operational efficiency and drive innovation through tailored AI applications."
+    }
+]
