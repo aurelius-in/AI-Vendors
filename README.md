@@ -1,5 +1,6 @@
 # AI-Vendors
-'''
+
+```
 ai-vendor-marketplace/
 │
 ├── index.html
@@ -10,4 +11,4 @@ ai-vendor-marketplace/
 └── assets/
     ├── logo.png
     └── banner.jpg
-'''
+```
