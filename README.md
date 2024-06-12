@@ -1,6 +1,9 @@
 # AI-Vendors
 
 ```
+https://aurelius-in.github.io/AI-Vendors/
+---
+
 ai-vendor-marketplace/
 │
 ├── index.html
