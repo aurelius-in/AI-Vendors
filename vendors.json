@@ -793,7 +793,15 @@
         "reviews": ["Excellent geospatial analytics", "Innovative use of satellite data"],
         "description": "Orbital Insight specializes in geospatial analytics, using AI to analyze satellite imagery and other geospatial data. Their technology provides valuable insights for various industries, including agriculture, energy, and finance, helping organizations make data-driven decisions."
     },
-
+    
+{
+        "name": "Pachyderm",
+        "category": "Data Pipelines",
+        "features": ["Data Versioning", "Pipeline Automation", "Scalable Storage"],
+        "rating": 4.4,
+        "reviews": ["Robust data versioning", "Automated pipelines"],
+        "description": "Pachyderm offers a platform for automating data pipelines with robust versioning and scalable storage. Their solutions support the creation of reproducible and efficient data workflows, enhancing data management for machine learning applications."
+    }
       {
         "name": "Pano AI",
         "category": "Disaster Management",
@@ -1203,7 +1211,8 @@
         "rating": 4.3,
         "reviews": ["Accurate imaging analysis", "Supports clinical decisions"],
         "description": "Zebra Medical Vision offers AI-powered healthcare solutions, focusing on medical imaging analysis and disease detection. Their technology aids clinicians by providing accurate diagnostic insights and supporting clinical decision-making."
-    }
+    },
+    { "name": "Zest AI", "category": "Credit Risk Analysis", "features": ["Risk Modeling", "Fairness Metrics", "Regulatory Compliance"], "rating": 4.6, "reviews": ["Innovative risk models", "Focus on fairness and compliance"], "description": "Zest AI provides tools for developing credit risk models with a focus on fairness and compliance. Their platform includes metrics for ensuring model equity and regulatory adherence, helping financial institutions manage risk effectively." }
 
 
     
