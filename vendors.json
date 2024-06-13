@@ -100,6 +100,15 @@
         "description": "Arthur AI specializes in AI model monitoring and bias detection. Their platform helps organizations track model performance, identify biases, and ensure robust AI governance, making high-quality AI application maintenance more efficient."
     },
 
+    {
+        "name": "Artistic Algorithm",
+        "category": "AI Solutions",
+        "features": ["Custom AI Development", "Machine Learning", "AI Consulting"],
+        "rating": 3.9,
+        "reviews": ["Custom AI solutions", "Expert consulting"],
+        "description": "Artistic Algorithm offers custom AI development and consulting services, providing tailored AI solutions for various industries. Their expertise in machine learning and AI deployment helps businesses integrate AI technologies effectively to achieve their strategic goals."
+    },
+
     
 {
         "name": "Avaamo",
@@ -423,6 +432,15 @@
         "rating": 4.1,
         "reviews": ["Innovative credit solutions", "Efficient credit scoring"],
         "description": "Deserve offers AI-driven fintech solutions, specializing in credit card issuing and AI-based credit scoring. Their platform provides innovative credit solutions, streamlining the process for financial institutions."
+    },
+
+    {
+        "name": "Domino Data Lab",
+        "category": "Enterprise AI",
+        "features": ["Model Management", "Collaboration Tools", "Data Governance"],
+        "rating": 4.8,
+        "reviews": ["Best-in-class collaboration", "Comprehensive governance"],
+        "description": "Domino Data Lab offers an enterprise AI platform that unifies data science workflows. Their platform supports model management, team collaboration, and data governance, facilitating efficient and compliant AI development and deployment."
     },
 
 {
@@ -943,6 +961,15 @@
         "description": "SambaNova Systems develops advanced AI hardware with a focus on dataflow architecture and scalable AI solutions. Their AI accelerators are designed to handle complex AI workloads efficiently, providing robust support for AI research and deployment."
     },
 
+ {
+        "name": "Seldon",
+        "category": "Model Deployment",
+        "features": ["Model Serving", "Monitoring", "Explainability"],
+        "rating": 4.5,
+        "reviews": ["Excellent monitoring tools", "Focus on model explainability"],
+        "description": "Seldon provides an open-source platform for deploying and monitoring machine learning models. Their solutions include tools for model explainability and real-time monitoring, enhancing the transparency and reliability of deployed models."
+    },
+    
     {
         "name": "SentinelOne",
         "category": "Cybersecurity",
@@ -1212,7 +1239,14 @@
         "reviews": ["Accurate imaging analysis", "Supports clinical decisions"],
         "description": "Zebra Medical Vision offers AI-powered healthcare solutions, focusing on medical imaging analysis and disease detection. Their technology aids clinicians by providing accurate diagnostic insights and supporting clinical decision-making."
     },
-    { "name": "Zest AI", "category": "Credit Risk Analysis", "features": ["Risk Modeling", "Fairness Metrics", "Regulatory Compliance"], "rating": 4.6, "reviews": ["Innovative risk models", "Focus on fairness and compliance"], "description": "Zest AI provides tools for developing credit risk models with a focus on fairness and compliance. Their platform includes metrics for ensuring model equity and regulatory adherence, helping financial institutions manage risk effectively." }
+    { 
+        "name": "Zest AI", 
+        "category": "Credit Risk Analysis", 
+        "features": ["Risk Modeling", "Fairness Metrics", "Regulatory Compliance"], 
+        "rating": 4.6, 
+        "reviews": ["Innovative risk models", "Focus on fairness and compliance"], 
+        "description": "Zest AI provides tools for developing credit risk models with a focus on fairness and compliance. Their platform includes metrics for ensuring model equity and regulatory adherence, helping financial institutions manage risk effectively." 
+    }
 
 
     
