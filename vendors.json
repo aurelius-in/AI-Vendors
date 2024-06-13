@@ -1,4 +1,7 @@
 [
+ 
+    
+
 
 
         {
@@ -33,7 +36,18 @@
         "reviews": ["Robust virtual assistants", "Excellent for voice AI"],
         "description": "Avaamo specializes in creating virtual assistants and bots with industry-specific skills. Their platform supports a wide range of conversational AI workflows, including voice AI solutions, making it versatile for different business applications."
     },
+
     
+    {
+        "name": "Blue River Technology",
+        "category": "Agricultural AI",
+        "features": ["Precision Agriculture", "Weed Detection", "Crop Analysis"],
+        "rating": 4.5,
+        "reviews": ["Great for precision farming", "Enhances crop yields"],
+        "description": "Blue River Technology provides AI solutions for agriculture, including precision farming tools that detect weeds and analyze crops to improve yield and reduce the use of herbicides."
+    },
+
+
     {
         "name": "C3 AI",
         "category": "Enterprise AI",
@@ -41,6 +55,23 @@
         "rating": 4,
         "reviews": ["Highly effective", "Tailored solutions"],
         "description": "C3 AI specializes in enterprise AI, providing an extensive suite of tools designed for predictive analytics and industry-specific solutions. Their AI suite helps businesses leverage AI to enhance operational efficiency and drive innovation through tailored AI applications."
+    },
+
+{
+        "name": "Claroty",
+        "category": "Industrial Cybersecurity",
+        "features": ["Threat Detection", "Network Security", "Asset Visibility"],
+        "rating": 4.3,
+        "reviews": ["Strong cybersecurity tools", "Effective threat detection"],
+        "description": "Claroty specializes in industrial cybersecurity, offering tools for threat detection, network security, and asset visibility to protect critical infrastructure and industrial systems from cyber threats."
+    },
+   {
+        "name": "Crimson Hexagon",
+        "category": "Social Media Analytics",
+        "features": ["Sentiment Analysis", "Trend Monitoring", "Audience Insights"],
+        "rating": 4.2,
+        "reviews": ["Great for social media insights", "Powerful analytics tools"],
+        "description": "Crimson Hexagon provides AI-powered social media analytics tools that help businesses understand audience sentiment, monitor trends, and gain actionable insights from social media data."
     },
     {
         "name": "DataRobot",
@@ -93,7 +124,14 @@
         "reviews": ["User-friendly", "Powerful contextual routing"],
         "description": "Laiye offers a no-code platform for building conversational AI bots. Their solution includes real-time dashboards and intelligent routing capabilities, making it an efficient tool for managing customer interactions across multiple channels."
     },
-    
+    {
+        "name": "Nauto",
+        "category": "AI for Automotive Safety",
+        "features": ["Driver Monitoring", "Collision Prevention", "Real-Time Alerts"],
+        "rating": 4.3,
+        "reviews": ["Enhances driver safety", "Effective collision prevention"],
+        "description": "Nauto uses AI to improve automotive safety by monitoring driver behavior and providing real-time alerts to prevent collisions. Their solutions enhance fleet safety and reduce accident-related costs."
+    },
     {
         "name": "OpenAI",
         "category": "Generative AI",
@@ -135,6 +173,24 @@
         "description": "Runway offers a generative video editing platform that allows users to create video clips from text prompts. Their mobile app makes it easy to generate and edit videos on the go, making it a valuable tool for content creators and marketers."
     },
 
+   {
+        "name": "Sift",
+        "category": "Fraud Prevention",
+        "features": ["Transaction Monitoring", "User Authentication", "Risk Scoring"],
+        "rating": 4.2,
+        "reviews": ["Great for fraud prevention", "Comprehensive security tools"],
+        "description": "Sift provides AI-driven fraud prevention solutions that monitor transactions, authenticate users, and generate risk scores to prevent fraudulent activities and secure online transactions."
+    },
+
+{
+        "name": "SparkCognition",
+        "category": "Industrial AI",
+        "features": ["Predictive Maintenance", "Asset Protection", "Operational Efficiency"],
+        "rating": 4.4,
+        "reviews": ["Innovative industrial AI", "Boosts operational efficiency"],
+        "description": "SparkCognition develops AI solutions for industrial applications, focusing on predictive maintenance, asset protection, and improving operational efficiency across various industries."
+    },
+
     {
         "name": "Sprinklr",
         "category": "Customer Experience Management",
@@ -169,6 +225,15 @@
         "reviews": ["Excellent for writers", "Innovative storytelling features"],
         "description": "Sudowrite provides AI-driven tools for novel writing and storytelling. Their platform includes a 'Story Engine' that generates text based on user inputs, helping writers develop plots, characters, and narrative arcs with ease."
     },
+
+{
+        "name": "Tamr",
+        "category": "Data Integration",
+        "features": ["Data Unification", "Data Quality", "Machine Learning"],
+        "rating": 4.1,
+        "reviews": ["Effective data unification", "Improves data quality"],
+        "description": "Tamr uses machine learning to unify and clean data from disparate sources, improving data quality and making it easier for businesses to leverage their data for decision-making and analytics."
+    },
     {
         "name": "Tars",
         "category": "Conversational AI",
@@ -176,6 +241,16 @@
         "rating": 4.2,
         "reviews": ["Effective for customer self-service", "Secure and compliant"],
         "description": "Tars provides conversational AI solutions for automating customer self-service processes. Their platform integrates natural language processing and machine learning, offering secure and customizable automation workflows for various business needs."
+    },
+
+        
+    {
+        "name": "Uptake",
+        "category": "Predictive Analytics",
+        "features": ["Predictive Maintenance", "Asset Performance Management", "Operational Insights"],
+        "rating": 4.2,
+        "reviews": ["Boosts asset performance", "Valuable operational insights"],
+        "description": "Uptake provides predictive analytics solutions that help businesses manage asset performance and gain operational insights. Their platform is designed to optimize maintenance schedules and improve the reliability of critical assets."
     }
     
 ]
