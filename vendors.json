@@ -381,6 +381,15 @@
         "description": "DataRobot provides automated machine learning solutions that simplify the process of building and deploying predictive models. Their platform is designed to accelerate AI adoption, offering user-friendly interfaces and comprehensive support for various machine learning tasks."
     },
 
+     {
+        "name": "Datarobot AI Cloud",
+        "category": "Automated Machine Learning",
+        "features": ["AutoML", "Model Deployment", "AI Governance"],
+        "rating": 4.6,
+        "reviews": ["Powerful AutoML capabilities", "Robust governance features"],
+        "description": "Datarobot AI Cloud provides automated machine learning solutions, enabling rapid development and deployment of ML models. Their platform includes comprehensive AI governance tools, ensuring models are compliant and ethically sound."
+    },
+
 {
         "name": "Darktrace",
         "category": "Cybersecurity",
@@ -1116,6 +1125,8 @@
         "description": "Synthesia offers an AI-powered video creation platform that allows users to generate videos with AI avatars and cloned voices. The tool is ideal for creating professional training videos, marketing content, and more without the need for a camera or a studio."
     },
 
+
+
 {
         "name": "Tamr",
         "category": "Data Integration",
@@ -1131,6 +1142,16 @@
         "rating": 4.2,
         "reviews": ["Effective for customer self-service", "Secure and compliant"],
         "description": "Tars provides conversational AI solutions for automating customer self-service processes. Their platform integrates natural language processing and machine learning, offering secure and customizable automation workflows for various business needs."
+    },
+
+    
+    {
+        "name": "Tecton",
+        "category": "Machine Learning Operations",
+        "features": ["Feature Store", "Data Transformation", "Real-Time Data Pipelines"],
+        "rating": 4.5,
+        "reviews": ["Efficient feature management", "Great real-time capabilities"],
+        "description": "Tecton provides a platform for managing machine learning features with real-time data transformation capabilities. Their feature store simplifies the creation, deployment, and management of ML features, enhancing data pipelines and model performance."
     },
 
       {
@@ -1221,6 +1242,15 @@
         "rating": 4.5,
         "reviews": ["Excellent tracking features", "User-friendly interface"],
         "description": "Weights & Biases (Wandb) offers a comprehensive suite of tools for machine learning experiment tracking, model management, and visualization. Their platform helps data scientists keep track of their experiments, visualize results, and collaborate seamlessly."
+    },
+
+     {
+        "name": "Weights & Biases",
+        "category": "Machine Learning Operations",
+        "features": ["Experiment Tracking", "Model Management", "Collaborative Tools"],
+        "rating": 4.7,
+        "reviews": ["Comprehensive tracking", "Excellent collaboration tools"],
+        "description": "Weights & Biases offers tools for tracking machine learning experiments, managing models, and collaborating on ML projects. Their platform supports versioning, visualization, and sharing of ML artifacts, streamlining the model development lifecycle."
     },
 
 {
