@@ -81,6 +81,26 @@
         "reviews": ["Great for marketing copy", "Flexible content generation"],
         "description": "Anyword is a generative AI platform focused on content creation for blogs, ads, and emails. It uses natural language processing to generate text that matches a company's brand voice, helping businesses create consistent and engaging content."
     },
+
+     {
+        "name": "Arize AI",
+        "category": "AI Monitoring",
+        "features": ["Model Monitoring", "Observability", "AI Performance"],
+        "rating": 4,
+        "reviews": ["Comprehensive monitoring", "Improves AI performance"],
+        "description": "Arize AI offers a machine learning observability platform that helps AI teams monitor, troubleshoot, and improve their models in production. By providing detailed insights into model performance, Arize AI enables teams to quickly detect and resolve issues, ensuring robust and reliable AI systems."
+    },
+
+{
+        "name": "Arthur AI",
+        "category": "AI Model Monitoring",
+        "features": ["Bias detection", "Model monitoring", "Anomaly detection"],
+        "rating": 4.5,
+        "reviews": ["Essential for AI governance", "Comprehensive monitoring tools"],
+        "description": "Arthur AI specializes in AI model monitoring and bias detection. Their platform helps organizations track model performance, identify biases, and ensure robust AI governance, making high-quality AI application maintenance more efficient."
+    },
+
+    
 {
         "name": "Avaamo",
         "category": "Conversational AI",
@@ -187,6 +207,15 @@
         "rating": 4.5,
         "reviews": ["Accurate forecasting", "Improves sales efficiency"],
         "description": "Clari uses AI to transform revenue operations, providing tools for forecasting, pipeline management, and sales analytics. Their platform helps sales teams predict outcomes and optimize their strategies, leading to more accurate forecasts and better sales performance."
+    },
+
+     {
+        "name": "Clarifai",
+        "category": "Computer Vision",
+        "features": ["Image recognition", "Video analysis", "Metadata tagging"],
+        "rating": 4,
+        "reviews": ["Powerful visual AI tools", "Great for media analysis"],
+        "description": "Clarifai offers deep learning AI solutions for organizing, curating, and searching media. Their platform is widely used for image and video recognition, providing advanced tools for metadata tagging and visual content analysis."
     },
 
 {
@@ -342,7 +371,15 @@
         "reviews": ["Effective threat detection", "Strong security tools"],
         "description": "Darktrace uses AI to provide advanced threat detection and network security solutions. Their platform monitors network traffic and uses machine learning algorithms to identify and respond to potential security threats in real-time, ensuring robust protection for organizations."
     },
-    
+
+      {
+        "name": "Deepgram",
+        "category": "Speech Recognition",
+        "features": ["Speech-to-text", "Audio analysis", "Real-time transcription"],
+        "rating": 4.5,
+        "reviews": ["Highly accurate transcription", "Great for noisy environments"],
+        "description": "Deepgram offers AI-powered speech recognition that can transcribe and analyze large volumes of audio and video content. Their technology is known for its accuracy and ability to work in noisy and low-quality audio environments, making it valuable for call centers, media transcription, and compliance monitoring."
+    },
 
      {
         "name": "Deep Instinct",
@@ -351,6 +388,15 @@
         "rating": 4.3,
         "reviews": ["Highly accurate threat detection", "Strong endpoint protection"],
         "description": "Deep Instinct specializes in deep learning-based threat prevention and detection. Their algorithms are trained on extensive datasets to identify and classify known and unknown threats, including ransomware and zero-day attacks, ensuring comprehensive protection for various devices."
+    },
+
+     {
+        "name": "DeepMind",
+        "category": "AI Research",
+        "features": ["Deep Learning", "Reinforcement Learning", "AI Research"],
+        "rating": 5,
+        "reviews": ["Pioneering research", "Advanced AI capabilities"],
+        "description": "DeepMind, a subsidiary of Alphabet, focuses on advanced AI research and development. Known for its groundbreaking work in deep learning and reinforcement learning, DeepMind's technologies are applied in various fields, from healthcare to gaming, pushing the boundaries of what AI can achieve."
     },
 
     {
@@ -466,6 +512,15 @@
         "rating": 4.4,
         "reviews": ["Effective edge solutions", "User-friendly platform"],
         "description": "Guise AI provides solutions optimized for edge computing, offering a no-code platform for managing AI workloads and a unified data store for real-time model updates and deployment. Their focus on edge AI helps companies leverage data generated at the source."
+    },
+
+    {
+        "name": "H2O.ai",
+        "category": "AI Software",
+        "features": ["AutoML", "AI Cloud", "Machine Learning"],
+        "rating": 4.5,
+        "reviews": ["Democratizing AI", "Powerful AutoML tools"],
+        "description": "H2O.ai aims to democratize AI by providing robust machine learning tools and an AI Cloud platform. Their solutions make it easier for companies without extensive AI expertise to implement and benefit from AI technologies."
     },
 
 {
@@ -685,6 +740,24 @@
         "description": "Nexar offers AI-driven dashcams that provide real-time monitoring and accident detection. Their solutions improve driver safety by alerting users to potential hazards and recording incidents, making them useful for personal and commercial vehicle fleets."
     },
 
+     {
+        "name": "NVIDIA",
+        "category": "AI Hardware",
+        "features": ["GPUs", "AI Computing", "Deep Learning"],
+        "rating": 5,
+        "reviews": ["Top-notch performance", "Industry leader"],
+        "description": "NVIDIA is a leading provider of AI hardware, particularly known for its high-performance GPUs used in deep learning and AI computing. Their hardware accelerates AI research and applications, making NVIDIA a cornerstone in the AI infrastructure landscape."
+    },
+
+     {
+        "name": "Observe.AI",
+        "category": "Conversational AI",
+        "features": ["Real-time Analytics", "Agent Performance", "AI Coaching"],
+        "rating": 4,
+        "reviews": ["Enhances contact centers", "Real-time insights"],
+        "description": "Observe.AI focuses on improving contact center performance through real-time conversation intelligence. Their platform uses AI to analyze customer interactions, providing actionable insights and automated coaching to enhance agent performance and customer satisfaction."
+    },
+
     {
         "name": "Olis Robotics",
         "category": "Remote Robotics",
@@ -755,6 +828,15 @@
         "rating": 4.1,
         "reviews": ["Great for small businesses", "Smart sales assistant"],
         "description": "Pipedrive is a sales CRM platform tailored for small and medium-sized businesses. Its AI assistant provides lead scoring, actionable insights, and sales activity recommendations to help businesses drive revenue."
+    },
+
+      {
+        "name": "Palantir",
+        "category": "Big Data Analytics",
+        "features": ["Data Integration", "Analytics", "AI Solutions"],
+        "rating": 4,
+        "reviews": ["Powerful data tools", "Comprehensive analytics"],
+        "description": "Palantir provides powerful big data analytics solutions, integrating AI to help organizations make sense of vast amounts of data. Their platforms are used for complex data integration, analysis, and AI-driven insights across various industries, including defense, finance, and healthcare."
     },
 
         {
@@ -888,6 +970,15 @@
         "rating": 4.6,
         "reviews": ["Reduces false declines", "Effective fraud prevention"],
         "description": "Signifyd uses machine learning to protect e-commerce retailers from payment fraud, reducing false declines and shifting liability away from merchants. Their software analyzes numerous data points to determine transaction legitimacy, improving security and customer experience."
+    },
+
+    {
+        "name": "Snowflake",
+        "category": "Data Warehousing",
+        "features": ["Data cloud", "AI-driven data processing", "Multi-cloud support"],
+        "rating": 5,
+        "reviews": ["Excellent data integration", "Highly scalable"],
+        "description": "Snowflake provides a next-gen data warehouse that supports AI-driven data processing across multiple cloud platforms. Their solutions help eliminate data silos and optimize data gathering and processing for enterprise-level applications."
     },
 
     {
