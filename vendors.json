@@ -1,15 +1,5 @@
 [
-     
     
-  
-    
-    
-
- 
-    
-
-
-
         {
         "name": "Aisera",
         "category": "Conversational AI",
@@ -43,6 +33,14 @@
         "description": "Avaamo specializes in creating virtual assistants and bots with industry-specific skills. Their platform supports a wide range of conversational AI workflows, including voice AI solutions, making it versatile for different business applications."
     },
 
+{
+        "name": "BigML",
+        "category": "Machine Learning",
+        "features": ["Data Preprocessing", "Model Training", "Predictive Analytics"],
+        "rating": 4.0,
+        "reviews": ["User-friendly interface", "Comprehensive ML tools"],
+        "description": "BigML is a machine learning platform that offers a wide range of tools for data preprocessing, model training, and predictive analytics. Their user-friendly interface makes it easy for businesses to harness the power of machine learning for data-driven decision-making."
+    },
     
     {
         "name": "Blue River Technology",
@@ -106,6 +104,25 @@
         "description": "DataRobot provides automated machine learning solutions that simplify the process of building and deploying predictive models. Their platform is designed to accelerate AI adoption, offering user-friendly interfaces and comprehensive support for various machine learning tasks."
     },
 
+{
+        "name": "Darktrace",
+        "category": "Cybersecurity",
+        "features": ["Threat Detection", "Network Security", "AI-Driven Response"],
+        "rating": 4.4,
+        "reviews": ["Effective threat detection", "Strong security tools"],
+        "description": "Darktrace uses AI to provide advanced threat detection and network security solutions. Their platform monitors network traffic and uses machine learning algorithms to identify and respond to potential security threats in real-time, ensuring robust protection for organizations."
+    },
+
+{
+        "name": "Element AI",
+        "category": "AI Solutions",
+        "features": ["Custom AI Development", "Machine Learning", "AI Consulting"],
+        "rating": 4.1,
+        "reviews": ["Custom AI solutions", "Expert consulting"],
+        "description": "Element AI offers custom AI development and consulting services, providing tailored AI solutions for various industries. Their expertise in machine learning and AI deployment helps businesses integrate AI technologies effectively to achieve their strategic goals."
+    },
+
+
   {
         "name": "Exponential AI",
         "category": "AI for Healthcare",
@@ -168,6 +185,15 @@
         "description": "Laiye offers a no-code platform for building conversational AI bots. Their solution includes real-time dashboards and intelligent routing capabilities, making it an efficient tool for managing customer interactions across multiple channels."
     },
 
+     {
+        "name": "LivePerson",
+        "category": "Customer Service AI",
+        "features": ["AI Chatbots", "Conversational Commerce", "Customer Engagement"],
+        "rating": 4.3,
+        "reviews": ["Enhances customer engagement", "Innovative chatbots"],
+        "description": "LivePerson offers AI-driven customer service solutions, including chatbots and conversational commerce tools. Their platform helps businesses engage with customers more effectively, providing personalized interactions and improving overall customer experience."
+    },
+
     {
         "name": "LogicMonitor",
         "category": "AI for IT Infrastructure",
@@ -221,6 +247,16 @@
         "reviews": ["High-quality TTS", "Wide range of voices"],
         "description": "PlayHT offers a text-to-speech platform that converts written text into human-like audio. With support for over 800 voices in 130+ languages, it is ideal for creating voiceovers for videos, podcasts, and e-learning materials."
     },
+
+{
+        "name": "Primer",
+        "category": "Data Analytics",
+        "features": ["Text Analysis", "Data Summarization", "AI-Driven Insights"],
+        "rating": 4.2,
+        "reviews": ["Powerful text analysis", "Great for data insights"],
+        "description": "Primer specializes in AI-driven text analysis and data summarization. Their platform extracts insights from large volumes of text data, providing businesses with valuable information for decision-making and strategic planning."
+    },
+
     {
         "name": "Qualtrics",
         "category": "Experience Management",
@@ -334,6 +370,32 @@
         "rating": 4.2,
         "reviews": ["Boosts asset performance", "Valuable operational insights"],
         "description": "Uptake provides predictive analytics solutions that help businesses manage asset performance and gain operational insights. Their platform is designed to optimize maintenance schedules and improve the reliability of critical assets."
+    },
+{
+        "name": "Vicarious",
+        "category": "Robotics AI",
+        "features": ["Computer Vision", "Robotic Automation", "AI Control Systems"],
+        "rating": 4.3,
+        "reviews": ["Innovative robotics solutions", "Advanced AI control"],
+        "description": "Vicarious develops AI technologies for robotics, focusing on computer vision and control systems. Their solutions enable robots to perceive and interact with the environment, making them suitable for a wide range of automation tasks in industries like manufacturing and logistics."
+    },
+
+{
+        "name": "Wit.ai",
+        "category": "Conversational AI",
+        "features": ["Natural Language Processing", "Voice Recognition", "AI Chatbots"],
+        "rating": 4.2,
+        "reviews": ["Effective NLP tools", "Great for voice applications"],
+        "description": "Wit.ai provides powerful natural language processing tools for building voice and text-based conversational applications. Their platform is widely used to develop AI chatbots and voice recognition systems, enhancing user interactions across various devices."
+    },
+
+{
+        "name": "x.ai",
+        "category": "Productivity AI",
+        "features": ["Meeting Scheduling", "Calendar Management", "Email Integration"],
+        "rating": 4.1,
+        "reviews": ["Great productivity tool", "Efficient scheduling"],
+        "description": "x.ai provides AI-driven productivity tools, including meeting scheduling and calendar management. Their AI assistant automates the process of scheduling meetings and managing calendars, integrating seamlessly with email platforms to save users time and effort."
     }
     
 ]
