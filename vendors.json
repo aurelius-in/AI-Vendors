@@ -1,5 +1,6 @@
 [
 
+
         {
         "name": "Aisera",
         "category": "Conversational AI",
@@ -15,6 +16,14 @@
         "rating": 4.4,
         "reviews": ["Easy to use", "Highly adaptable"],
         "description": "Amelia.ai provides generative and conversational AI solutions that enhance customer and employee engagement. Their platform includes workflow builders and intelligent reporting tools, making it suitable for various industries with minimal coding required."
+    },
+  {
+        "name": "Anyword",
+        "category": "Content Generation",
+        "features": ["NLP Copywriting", "Brand Voice Customization", "Content Optimization"],
+        "rating": 4.4,
+        "reviews": ["Effective copywriting tool", "Customizable for brand voice"],
+        "description": "Anyword uses natural language processing to generate copy for various applications, including blogs, ads, and emails. Their platform can be trained to match a company's brand voice, making it a versatile tool for content creation and optimization."
     },
 {
         "name": "Avaamo",
@@ -59,7 +68,15 @@
         "reviews": ["Reliable and scalable", "Trusted by enterprises"],
         "description": "IBM Watson is a robust AI platform offering a suite of enterprise-grade AI tools. Known for its capabilities in natural language processing, AI analytics, and cognitive computing, IBM Watson supports large-scale AI implementations across various industries, ensuring reliability and scalability."
     },
-    
+
+ {
+        "name": "Inworld AI",
+        "category": "Character AI",
+        "features": ["Generative Characters", "NLP Integration", "Game Development"],
+        "rating": 4.6,
+        "reviews": ["Revolutionary for game AI", "Realistic character behaviors"],
+        "description": "Inworld AI focuses on creating AI-powered characters for video games. Their platform uses natural language processing to generate characters that can mimic human behaviors, enhancing the realism and interactivity of gaming experiences."
+    },
     {
         "name": "Ipsotek",
         "category": "Video Analytics",
@@ -85,6 +102,14 @@
         "reviews": ["Innovative technology", "Pioneers in AI"],
         "description": "OpenAI is a leader in generative AI, renowned for its development of advanced language models such as GPT-4. Their technologies are used across various applications, including chatbots, content creation, and automation, providing cutting-edge solutions for businesses."
     },
+        {
+        "name": "PlayHT",
+        "category": "Text-to-Speech",
+        "features": ["Human-Like Voices", "Multilingual Support", "Real-Time Generation"],
+        "rating": 4.4,
+        "reviews": ["High-quality TTS", "Wide range of voices"],
+        "description": "PlayHT offers a text-to-speech platform that converts written text into human-like audio. With support for over 800 voices in 130+ languages, it is ideal for creating voiceovers for videos, podcasts, and e-learning materials."
+    },
     {
         "name": "Qualtrics",
         "category": "Experience Management",
@@ -93,6 +118,23 @@
         "reviews": ["Excellent for CX and EX", "Rich analytics"],
         "description": "Qualtrics offers a suite of tools for managing customer and employee experiences. Their conversational analytics and sentiment monitoring capabilities provide valuable insights, helping businesses enhance their strategic decision-making and improve overall satisfaction."
     },
+ {
+        "name": "Rephrase AI",
+        "category": "Video Generation",
+        "features": ["Text-to-Video", "Customizable Avatars", "Marketing Integration"],
+        "rating": 4.3,
+        "reviews": ["Great for marketing videos", "Easy avatar customization"],
+        "description": "Rephrase AI provides a platform for creating videos from text inputs. Users can select avatars, backgrounds, and voices to generate personalized video content, which is particularly useful for marketing and sales presentations."
+    },
+{
+        "name": "Runway",
+        "category": "Video Editing",
+        "features": ["Generative Video Editing", "Text-to-Video Clips", "Mobile Integration"],
+        "rating": 4.4,
+        "reviews": ["Powerful video editing tools", "Seamless mobile app integration"],
+        "description": "Runway offers a generative video editing platform that allows users to create video clips from text prompts. Their mobile app makes it easy to generate and edit videos on the go, making it a valuable tool for content creators and marketers."
+    },
+
     {
         "name": "Sprinklr",
         "category": "Customer Experience Management",
@@ -100,6 +142,32 @@
         "rating": 4.5,
         "reviews": ["Powerful sentiment analysis", "Comprehensive CX tools"],
         "description": "Sprinklr provides a comprehensive customer experience management platform that includes omnichannel listening and sentiment analysis tools. Their predictive NPS features help businesses track and improve customer satisfaction across various touchpoints."
+    },
+{
+        "name": "Stability AI",
+        "category": "Generative AI",
+        "features": ["Text-to-Image Generation", "Open-Source Models", "API Integration"],
+        "rating": 4.5,
+        "reviews": ["Innovative image generation", "Open-source community leader"],
+        "description": "Stability AI is renowned for creating the Stable Diffusion model, which generates images from text prompts. They offer open-source models and APIs to empower developers, and their DreamStudio platform provides accessible tools for creative projects."
+    },
+
+{
+        "name": "Steve.ai",
+        "category": "Video Creation",
+        "features": ["Text-to-Video Animation", "Script Integration", "User-Friendly Interface"],
+        "rating": 4.3,
+        "reviews": ["Great for animated videos", "Easy to use"],
+        "description": "Steve.ai specializes in creating animated videos from text prompts. Their platform is designed for ease of use, allowing users to turn scripts and blog posts into engaging animated content quickly and efficiently."
+    },
+
+{
+        "name": "Sudowrite",
+        "category": "Writing Assistance",
+        "features": ["Novel Writing Tools", "Story Engine", "AI-Generated Text"],
+        "rating": 4.5,
+        "reviews": ["Excellent for writers", "Innovative storytelling features"],
+        "description": "Sudowrite provides AI-driven tools for novel writing and storytelling. Their platform includes a 'Story Engine' that generates text based on user inputs, helping writers develop plots, characters, and narrative arcs with ease."
     },
     {
         "name": "Tars",
