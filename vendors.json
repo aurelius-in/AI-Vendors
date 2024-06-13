@@ -1,70 +1,16 @@
 [
 
 
-    {
-        "name": "Kinetica",
-        "category": "Data Analytics",
-        "features": ["Real-time Analytics", "GPU-Accelerated Database", "AI Integration"],
-        "rating": 4.3,
-        "reviews": ["Fast analytics", "Seamless AI integration"],
-        "description": "Kinetica offers a GPU-accelerated database that enables real-time analytics and seamless AI integration. Their platform is designed to handle large datasets quickly, providing insights and analytics at unprecedented speeds."
-    },
-    {
-        "name": "SambaNova Systems",
-        "category": "AI Hardware",
-        "features": ["Dataflow Architecture", "AI Accelerators", "Scalable AI Solutions"],
-        "rating": 4.3,
-        "reviews": ["Powerful AI hardware", "Scalable solutions"],
-        "description": "SambaNova Systems develops advanced AI hardware with a focus on dataflow architecture and scalable AI solutions. Their AI accelerators are designed to handle complex AI workloads efficiently, providing robust support for AI research and deployment."
-    },
-    {
-        "name": "Landing AI",
-        "category": "Machine Learning",
-        "features": ["AI Training", "Deployment", "Industrial AI Solutions"],
-        "rating": 4.1,
-        "reviews": ["Effective training tools", "Great for industrial applications"],
-        "description": "Landing AI specializes in providing AI training and deployment solutions, particularly for industrial applications. Their tools help organizations develop and implement AI models that improve operational efficiency and product quality."
-    },
-    {
-        "name": "Aisera",
-        "category": "Conversational AI",
-        "features": ["AI Chatbots", "Virtual Assistants", "Automated Customer Support"],
-        "rating": 4.2,
-        "reviews": ["Excellent customer support", "Innovative virtual assistants"],
-        "description": "Aisera offers AI-driven conversational platforms for customer support, featuring AI chatbots and virtual assistants that automate and enhance customer interactions. Their solutions help businesses improve customer satisfaction and operational efficiency."
-    },
-    {
-        "name": "CrowdAI",
-        "category": "AI Data Labeling",
-        "features": ["Image Annotation", "Video Annotation", "Custom Training Data"],
-        "rating": 4.0,
-        "reviews": ["Flexible annotation tools", "Good customer support"],
-        "description": "CrowdAI offers flexible data labeling solutions for image and video annotation. Their tools allow for custom training data preparation, helping organizations build accurate AI models tailored to their specific needs."
-    },
-    {
-        "name": "Element AI",
-        "category": "AI Solutions",
-        "features": ["Custom AI Development", "Machine Learning", "AI Consulting"],
-        "rating": 4.1,
-        "reviews": ["Custom AI solutions", "Expert consulting"],
-        "description": "Element AI offers custom AI development and consulting services, providing tailored AI solutions for various industries. Their expertise in machine learning and AI deployment helps businesses integrate AI technologies effectively to achieve their strategic goals."
-    },
-    {
-        "name": "SparkCognition",
-        "category": "Industrial AI",
-        "features": ["Predictive Maintenance", "Asset Protection", "AI Analytics"],
-        "rating": 4.2,
-        "reviews": ["Improves asset reliability", "Innovative industrial solutions"],
-        "description": "SparkCognition specializes in industrial AI solutions, focusing on predictive maintenance, asset protection, and AI analytics. Their technology helps industries maintain operational efficiency and asset reliability."
-    }
-]
+
+
+    
 
    
         {
         "name": "Aisera",
         "category": "Conversational AI",
         "features": ["Universal Bot", "Generative AI Toolkit", "Omnichannel Support"],
-        "rating": 4.5,
+        "rating": 4.2,
         "reviews": ["Comprehensive conversational AI", "Versatile toolkit"],
         "description": "Aisera offers a universal bot that can handle requests across multiple domains and channels. Their generative AI toolkit integrates with popular business products like Webex, Zoom, and Salesforce, providing a flexible solution for various industries."
     },
@@ -185,6 +131,15 @@
         "description": "Crimson Hexagon provides AI-powered social media analytics tools that help businesses understand audience sentiment, monitor trends, and gain actionable insights from social media data."
     },
 
+    {
+        "name": "CrowdAI",
+        "category": "AI Data Labeling",
+        "features": ["Image Annotation", "Video Annotation", "Custom Training Data"],
+        "rating": 4.0,
+        "reviews": ["Flexible annotation tools", "Good customer support"],
+        "description": "CrowdAI offers flexible data labeling solutions for image and video annotation. Their tools allow for custom training data preparation, helping organizations build accurate AI models tailored to their specific needs."
+    },
+
 {
         "name": "CrushBank",
         "category": "AI for IT Support",
@@ -215,7 +170,7 @@
         "name": "Element AI",
         "category": "AI Solutions",
         "features": ["Custom AI Development", "Machine Learning", "AI Consulting"],
-        "rating": 4.0,
+        "rating": 3.9,
         "reviews": ["Custom AI solutions", "Expert consulting"],
         "description": "Element AI offers custom AI development and consulting services, providing tailored AI solutions for various industries. Their expertise in machine learning and AI deployment helps businesses integrate AI technologies effectively to achieve their strategic goals."
     },
@@ -353,6 +308,15 @@
         "rating": 4.3,
         "reviews": ["User-friendly", "Powerful contextual routing"],
         "description": "Laiye offers a no-code platform for building conversational AI bots. Their solution includes real-time dashboards and intelligent routing capabilities, making it an efficient tool for managing customer interactions across multiple channels."
+    },
+
+  {
+        "name": "Landing AI",
+        "category": "Machine Learning",
+        "features": ["AI Training", "Deployment", "Industrial AI Solutions"],
+        "rating": 4.1,
+        "reviews": ["Effective training tools", "Great for industrial applications"],
+        "description": "Landing AI specializes in providing AI training and deployment solutions, particularly for industrial applications. Their tools help organizations develop and implement AI models that improve operational efficiency and product quality."
     },
 
 {
@@ -497,6 +461,14 @@
         "reviews": ["Industry-leading CRM", "Advanced predictive analytics"],
         "description": "Salesforce is a leading CRM provider with AI-powered predictive analytics through its Einstein GPT. It delivers AI-driven predictions and insights across sales, customer service, and marketing to help businesses make data-driven decisions."
     },
+{
+        "name": "SambaNova Systems",
+        "category": "AI Hardware",
+        "features": ["Dataflow Architecture", "AI Accelerators", "Scalable AI Solutions"],
+        "rating": 4.3,
+        "reviews": ["Powerful AI hardware", "Scalable solutions"],
+        "description": "SambaNova Systems develops advanced AI hardware with a focus on dataflow architecture and scalable AI solutions. Their AI accelerators are designed to handle complex AI workloads efficiently, providing robust support for AI research and deployment."
+    },
 
    {
         "name": "Sift",
@@ -511,7 +483,7 @@
         "name": "SparkCognition",
         "category": "Industrial AI",
         "features": ["Predictive Maintenance", "Asset Protection", "Operational Efficiency"],
-        "rating": 4.4,
+        "rating": 4.1,
         "reviews": ["Innovative industrial AI", "Boosts operational efficiency"],
         "description": "SparkCognition develops AI solutions for industrial applications, focusing on predictive maintenance, asset protection, and improving operational efficiency across various industries."
     },
