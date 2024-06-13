@@ -1,5 +1,7 @@
 [
     
+    
+    
         {
         "name": "Aisera",
         "category": "Conversational AI",
@@ -78,6 +80,16 @@
         "reviews": ["Strong cybersecurity tools", "Effective threat detection"],
         "description": "Claroty specializes in industrial cybersecurity, offering tools for threat detection, network security, and asset visibility to protect critical infrastructure and industrial systems from cyber threats."
     },
+
+{
+        "name": "Cresta",
+        "category": "Contact Center AI",
+        "features": ["Generative AI Solutions", "Agent Coaching", "Real-Time Analytics"],
+        "rating": 4.3,
+        "reviews": ["Great for contact centers", "Effective agent support"],
+        "description": "Cresta develops generative AI solutions for contact centers, offering tools for agent coaching, real-time analytics, and performance optimization. Their platform analyzes customer interactions to provide actionable insights and improve service quality."
+    },
+
    {
         "name": "Crimson Hexagon",
         "category": "Social Media Analytics",
@@ -140,7 +152,15 @@
         "reviews": ["Powerful analytics tools", "Enhances decision-making"],
         "description": "Fractal Analytics provides AI-powered data analytics solutions, including predictive modeling and data visualization. Their platform helps businesses make data-driven decisions by uncovering insights and trends from complex datasets, leading to better strategic outcomes."
     },
- 
+
+{
+        "name": "Guise AI",
+        "category": "Edge AI",
+        "features": ["Edge Model Deployment", "No-Code Platform", "Unified Data Store"],
+        "rating": 4.4,
+        "reviews": ["Effective edge solutions", "User-friendly platform"],
+        "description": "Guise AI provides solutions optimized for edge computing, offering a no-code platform for managing AI workloads and a unified data store for real-time model updates and deployment. Their focus on edge AI helps companies leverage data generated at the source."
+    },
     
     {
         "name": "Hugging Face",
@@ -160,6 +180,25 @@
         "description": "IBM Watson is a robust AI platform offering a suite of enterprise-grade AI tools. Known for its capabilities in natural language processing, AI analytics, and cognitive computing, IBM Watson supports large-scale AI implementations across various industries, ensuring reliability and scalability."
     },
 
+{
+        "name": "Intent HQ",
+        "category": "Customer Intelligence",
+        "features": ["Behavioral Data Analysis", "Omnichannel Insights", "Data Privacy"],
+        "rating": 4.3,
+        "reviews": ["Insightful customer data", "Strong data privacy"],
+        "description": "Intent HQ specializes in AI-enabled customer intelligence, analyzing complex behavioral data to generate insights. Their platform provides omnichannel listening and segmentation, emphasizing data privacy and local processing for mobile applications."
+    },
+
+{
+        "name": "Invoca",
+        "category": "Conversational Intelligence",
+        "features": ["Call Tracking", "Sentiment Analysis", "Journey Orchestration"],
+        "rating": 4.2,
+        "reviews": ["Comprehensive call insights", "Enhances customer journey"],
+        "description": "Invoca offers AI-powered conversational intelligence tools for call tracking and sentiment analysis. Their platform provides end-to-end insights into customer interactions, helping businesses optimize sales, marketing, and service workflows."
+    },
+    
+
  {
         "name": "Inworld AI",
         "category": "Character AI",
@@ -168,14 +207,17 @@
         "reviews": ["Revolutionary for game AI", "Realistic character behaviors"],
         "description": "Inworld AI focuses on creating AI-powered characters for video games. Their platform uses natural language processing to generate characters that can mimic human behaviors, enhancing the realism and interactivity of gaming experiences."
     },
-    {
+    
+
+{
         "name": "Ipsotek",
         "category": "Video Analytics",
-        "features": ["Real-Time Analytics", "Microservices Architecture", "Cloud and Edge Integration"],
-        "rating": 4.3,
-        "reviews": ["Innovative video analytics", "Flexible deployment options"],
-        "description": "Ipsotek provides advanced video analytics solutions with a focus on real-time data processing. Their platform supports a microservices-based architecture, allowing for flexible deployment both in the cloud and at the edge, suitable for industries like security and transportation."
+        "features": ["Containerized Microservices", "Cloud-Native Deployment", "Real-Time Analytics"],
+        "rating": 4.2,
+        "reviews": ["Innovative video analytics", "Scalable architecture"],
+        "description": "Ipsotek offers AI-driven video analytics solutions with a containerized microservices architecture. Their platform integrates with camera systems for real-time data processing and insights, making it suitable for industries like security, transportation, and oil and gas."
     },
+
     {
         "name": "Laiye Chatbot",
         "category": "Conversational AI",
@@ -184,6 +226,16 @@
         "reviews": ["User-friendly", "Powerful contextual routing"],
         "description": "Laiye offers a no-code platform for building conversational AI bots. Their solution includes real-time dashboards and intelligent routing capabilities, making it an efficient tool for managing customer interactions across multiple channels."
     },
+
+{
+        "name": "Litmus",
+        "category": "Industrial AI",
+        "features": ["Unified Data Platform", "ML Model Deployment", "Anomaly Detection"],
+        "rating": 4.1,
+        "reviews": ["Comprehensive data platform", "Effective for industrial use"],
+        "description": "Litmus provides a unified data platform for industrial applications, facilitating the collection, contextualization, and analysis of operational data. Their platform supports ML model deployment for predictive maintenance and anomaly detection in manufacturing environments."
+    },
+
 
      {
         "name": "LivePerson",
@@ -259,11 +311,11 @@
 
     {
         "name": "Qualtrics",
-        "category": "Experience Management",
-        "features": ["Customer and Employee Experience", "Sentiment Monitoring", "Conversational Analytics"],
-        "rating": 4.6,
-        "reviews": ["Excellent for CX and EX", "Rich analytics"],
-        "description": "Qualtrics offers a suite of tools for managing customer and employee experiences. Their conversational analytics and sentiment monitoring capabilities provide valuable insights, helping businesses enhance their strategic decision-making and improve overall satisfaction."
+        "category": "Conversational Analytics",
+        "features": ["Predictive NPS", "Sentiment Monitoring", "Feedback Collection"],
+        "rating": 4.4,
+        "reviews": ["Powerful analytics tools", "Intuitive feedback system"],
+        "description": "Qualtrics provides conversational analytics tools for customer and employee experience management. Their solutions include predictive NPS, sentiment monitoring, and automated feedback collection, enabling organizations to track and improve customer interactions."
     },
  {
         "name": "Rephrase AI",
@@ -309,14 +361,13 @@
         "reviews": ["Innovative industrial AI", "Boosts operational efficiency"],
         "description": "SparkCognition develops AI solutions for industrial applications, focusing on predictive maintenance, asset protection, and improving operational efficiency across various industries."
     },
-
-    {
+{
         "name": "Sprinklr",
-        "category": "Customer Experience Management",
-        "features": ["Omnichannel Listening", "Sentiment Analysis", "Predictive NPS"],
+        "category": "Customer Experience",
+        "features": ["Omnichannel Engagement", "Sentiment Analysis", "Predictive Analytics"],
         "rating": 4.5,
-        "reviews": ["Powerful sentiment analysis", "Comprehensive CX tools"],
-        "description": "Sprinklr provides a comprehensive customer experience management platform that includes omnichannel listening and sentiment analysis tools. Their predictive NPS features help businesses track and improve customer satisfaction across various touchpoints."
+        "reviews": ["Excellent customer insights", "Robust engagement tools"],
+        "description": "Sprinklr offers AI-driven customer experience solutions, including omnichannel engagement, sentiment analysis, and predictive analytics. Their platform helps businesses enhance customer interactions and gain actionable insights across various touchpoints."
     },
 {
         "name": "Stability AI",
