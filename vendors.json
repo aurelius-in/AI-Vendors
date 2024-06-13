@@ -45,6 +45,15 @@
         "reviews": ["High-quality annotations", "Reliable service"],
         "description": "Alegion provides AI data labeling services, specializing in data annotation and training data preparation. Their platform ensures high-quality annotations, which are crucial for training accurate and reliable AI models."
     },
+
+{
+        "name": "Algorithmia",
+        "category": "Model Deployment",
+        "features": ["Model Serving", "Scalable Infrastructure", "Integration APIs"],
+        "rating": 4.4,
+        "reviews": ["Flexible deployment options", "Scalable infrastructure"],
+        "description": "Algorithmia specializes in model deployment and management, offering scalable infrastructure and integration APIs. Their platform simplifies the process of serving and managing ML models in production, supporting diverse use cases."
+    },
     
     {
         "name": "Amelia.ai",
