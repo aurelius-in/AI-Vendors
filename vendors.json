@@ -1,11 +1,15 @@
 [
-
     
     
     
-   
-    
-
+{
+        "name": "Aible",
+        "category": "AutoML",
+        "features": ["Automated Machine Learning", "Predictive Analytics", "Business Insights"],
+        "rating": 4.3,
+        "reviews": ["Powerful AutoML tools", "Great for business insights"],
+        "description": "Aible provides an AutoML platform that automates the creation and deployment of machine learning models. Their tools are designed to generate predictive analytics and actionable business insights, making AI accessible and beneficial for business users."
+    },
    
   {
         "name": "Aisera",
@@ -15,6 +19,16 @@
         "reviews": ["Comprehensive conversational AI", "Versatile toolkit"],
         "description": "Aisera offers a universal bot that can handle requests across multiple domains and channels. Their generative AI toolkit integrates with popular business products like Webex, Zoom, and Salesforce, providing a flexible solution for various industries."
     },
+
+{
+        "name": "Alegion",
+        "category": "AI Data Labeling",
+        "features": ["Data Annotation", "Training Data", "Quality Assurance"],
+        "rating": 4.1,
+        "reviews": ["High-quality annotations", "Reliable service"],
+        "description": "Alegion provides AI data labeling services, specializing in data annotation and training data preparation. Their platform ensures high-quality annotations, which are crucial for training accurate and reliable AI models."
+    },
+    
     {
         "name": "Amelia.ai",
         "category": "Conversational AI",
@@ -175,6 +189,15 @@
         "rating": 4.4,
         "reviews": ["Effective threat detection", "Strong security tools"],
         "description": "Darktrace uses AI to provide advanced threat detection and network security solutions. Their platform monitors network traffic and uses machine learning algorithms to identify and respond to potential security threats in real-time, ensuring robust protection for organizations."
+    },
+
+    {
+        "name": "Deep Vision",
+        "category": "Computer Vision",
+        "features": ["Image Recognition", "Object Detection", "Real-time Processing"],
+        "rating": 4.2,
+        "reviews": ["High accuracy", "Real-time capabilities"],
+        "description": "Deep Vision provides advanced computer vision solutions, including image recognition, object detection, and real-time processing. Their technology is used in various applications, from security to retail, offering high accuracy and efficient real-time processing capabilities."
     },
 
 {
@@ -596,6 +619,16 @@
         "reviews": ["Boosts asset performance", "Valuable operational insights"],
         "description": "Uptake provides predictive analytics solutions that help businesses manage asset performance and gain operational insights. Their platform is designed to optimize maintenance schedules and improve the reliability of critical assets."
     },
+
+{
+        "name": "Verta",
+        "category": "MLOps",
+        "features": ["Model Management", "Deployment", "Monitoring"],
+        "rating": 4.1,
+        "reviews": ["Streamlines MLOps", "Great monitoring tools"],
+        "description": "Verta provides a robust MLOps platform designed for model management, deployment, and monitoring. Their solutions streamline the entire machine learning lifecycle, enabling data scientists and engineers to manage, deploy, and monitor models efficiently and effectively."
+    },
+
 {
         "name": "Vicarious",
         "category": "Robotics AI",
@@ -603,6 +636,15 @@
         "rating": 4.3,
         "reviews": ["Innovative robotics solutions", "Advanced AI control"],
         "description": "Vicarious develops AI technologies for robotics, focusing on computer vision and control systems. Their solutions enable robots to perceive and interact with the environment, making them suitable for a wide range of automation tasks in industries like manufacturing and logistics."
+    },
+
+{
+        "name": "Wandb (Weights & Biases)",
+        "category": "Machine Learning",
+        "features": ["Experiment Tracking", "Model Management", "Visualization"],
+        "rating": 4.5,
+        "reviews": ["Excellent tracking features", "User-friendly interface"],
+        "description": "Weights & Biases (Wandb) offers a comprehensive suite of tools for machine learning experiment tracking, model management, and visualization. Their platform helps data scientists keep track of their experiments, visualize results, and collaborate seamlessly."
     },
 
 {
