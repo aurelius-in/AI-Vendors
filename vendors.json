@@ -1,5 +1,7 @@
 [
+   
     
+
     
     
         {
@@ -18,13 +20,13 @@
         "reviews": ["Easy to use", "Highly adaptable"],
         "description": "Amelia.ai provides generative and conversational AI solutions that enhance customer and employee engagement. Their platform includes workflow builders and intelligent reporting tools, making it suitable for various industries with minimal coding required."
     },
-  {
+     {
         "name": "Anyword",
         "category": "Content Generation",
-        "features": ["NLP Copywriting", "Brand Voice Customization", "Content Optimization"],
-        "rating": 4.4,
-        "reviews": ["Effective copywriting tool", "Customizable for brand voice"],
-        "description": "Anyword uses natural language processing to generate copy for various applications, including blogs, ads, and emails. Their platform can be trained to match a company's brand voice, making it a versatile tool for content creation and optimization."
+        "features": ["Copywriting", "Brand Voice Matching", "Natural Language Processing"],
+        "rating": 3.9,
+        "reviews": ["Great for marketing copy", "Flexible content generation"],
+        "description": "Anyword is a generative AI platform focused on content creation for blogs, ads, and emails. It uses natural language processing to generate text that matches a company's brand voice, helping businesses create consistent and engaging content."
     },
 {
         "name": "Avaamo",
@@ -63,6 +65,16 @@
         "description": "C3 AI specializes in enterprise AI, providing an extensive suite of tools designed for predictive analytics and industry-specific solutions. Their AI suite helps businesses leverage AI to enhance operational efficiency and drive innovation through tailored AI applications."
     },
 
+
+ 
+    {
+        "name": "Chatbase",
+        "category": "Conversational AI",
+        "features": ["Chatbot Integration", "Customer Support", "AI Widget"],
+        "rating": 4.3,
+        "reviews": ["Effective website chatbot", "Easy to integrate"],
+        "description": "Chatbase offers a ChatGPT-like chatbot that can be integrated into any website. It functions as a traditional widget, providing instant answers to customer queries and enhancing website interactivity and customer support efficiency."
+    },
 {
         "name": "Clari",
         "category": "Revenue Operations",
@@ -170,6 +182,15 @@
         "reviews": ["Great community support", "Highly collaborative"],
         "description": "Hugging Face is an AI infrastructure platform focused on open-source development. It offers a wide range of tools for hosting, training, and deploying machine learning models, making it a favorite among AI researchers and developers for its collaborative environment and robust support."
     },
+
+{
+        "name": "Humata AI",
+        "category": "Generative AI",
+        "features": ["Document Summarization", "Content Generation", "AI File Integration"],
+        "rating": 4.5,
+        "reviews": ["Innovative document AI", "Great for content creation"],
+        "description": "Humata AI is designed to integrate with your computer files, allowing users to ask questions and get instant answers about specific documents. It can summarize long pages and generate new content, streamlining document management and content creation tasks."
+    },
     
     {
         "name": "IBM Watson",
@@ -198,16 +219,14 @@
         "description": "Invoca offers AI-powered conversational intelligence tools for call tracking and sentiment analysis. Their platform provides end-to-end insights into customer interactions, helping businesses optimize sales, marketing, and service workflows."
     },
     
-
- {
+    {
         "name": "Inworld AI",
-        "category": "Character AI",
-        "features": ["Generative Characters", "NLP Integration", "Game Development"],
-        "rating": 4.6,
-        "reviews": ["Revolutionary for game AI", "Realistic character behaviors"],
-        "description": "Inworld AI focuses on creating AI-powered characters for video games. Their platform uses natural language processing to generate characters that can mimic human behaviors, enhancing the realism and interactivity of gaming experiences."
+        "category": "AI for Gaming",
+        "features": ["Character Generation", "Natural Language Processing", "Behavior Mimicking"],
+        "rating": 4.5,
+        "reviews": ["Great for game development", "Realistic character behaviors"],
+        "description": "Inworld AI focuses on implementing AI-powered character generation into video games. Using natural language processing, it creates generative characters that can mimic human behaviors, enhancing the realism and interactivity of game environments."
     },
-    
 
 {
         "name": "Ipsotek",
@@ -321,7 +340,7 @@
         "name": "Rephrase AI",
         "category": "Video Generation",
         "features": ["Text-to-Video", "Customizable Avatars", "Marketing Integration"],
-        "rating": 4.3,
+        "rating": 4.1,
         "reviews": ["Great for marketing videos", "Easy avatar customization"],
         "description": "Rephrase AI provides a platform for creating videos from text inputs. Users can select avatars, backgrounds, and voices to generate personalized video content, which is particularly useful for marketing and sales presentations."
     },
@@ -372,10 +391,10 @@
 {
         "name": "Stability AI",
         "category": "Generative AI",
-        "features": ["Text-to-Image Generation", "Open-Source Models", "API Integration"],
-        "rating": 4.5,
-        "reviews": ["Innovative image generation", "Open-source community leader"],
-        "description": "Stability AI is renowned for creating the Stable Diffusion model, which generates images from text prompts. They offer open-source models and APIs to empower developers, and their DreamStudio platform provides accessible tools for creative projects."
+        "features": ["Text-to-Image Generation", "Open-source Models", "API Integration"],
+        "rating": 4.6,
+        "reviews": ["High-quality image generation", "Strong open-source community"],
+        "description": "Stability AI is known for creating Stable Diffusion, a deep learning text-to-image AI model. They provide open-source models and APIs that developers can integrate into their applications, offering powerful image generation capabilities."
     },
 
 {
