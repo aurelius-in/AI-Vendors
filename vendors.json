@@ -1,12 +1,13 @@
 [
 
-
-
-
+    
+    
+    
+   
     
 
    
-        {
+  {
         "name": "Aisera",
         "category": "Conversational AI",
         "features": ["Universal Bot", "Generative AI Toolkit", "Omnichannel Support"],
@@ -114,6 +115,16 @@
     },
 
 {
+        "name": "CognitiveScale",
+        "category": "Augmented Intelligence",
+        "features": ["Decision Augmentation", "AI-driven Insights", "Risk Management"],
+        "rating": 4.1,
+        "reviews": ["Effective decision support", "Improves risk management"],
+        "description": "CognitiveScale specializes in augmented intelligence solutions, offering tools for decision augmentation, AI-driven insights, and risk management. Their platform enhances human decision-making by providing contextual and actionable insights."
+    },
+
+
+{
         "name": "Cresta",
         "category": "Contact Center AI",
         "features": ["Generative AI Solutions", "Agent Coaching", "Real-Time Analytics"],
@@ -164,6 +175,15 @@
         "rating": 4.4,
         "reviews": ["Effective threat detection", "Strong security tools"],
         "description": "Darktrace uses AI to provide advanced threat detection and network security solutions. Their platform monitors network traffic and uses machine learning algorithms to identify and respond to potential security threats in real-time, ensuring robust protection for organizations."
+    },
+
+{
+        "name": "Deserve",
+        "category": "Fintech AI",
+        "features": ["Credit Card Issuing", "AI Credit Scoring", "Financial Services"],
+        "rating": 4.1,
+        "reviews": ["Innovative credit solutions", "Efficient credit scoring"],
+        "description": "Deserve offers AI-driven fintech solutions, specializing in credit card issuing and AI-based credit scoring. Their platform provides innovative credit solutions, streamlining the process for financial institutions."
     },
 
 {
@@ -291,6 +311,16 @@
         "description": "Ipsotek offers AI-driven video analytics solutions with a containerized microservices architecture. Their platform integrates with camera systems for real-time data processing and insights, making it suitable for industries like security, transportation, and oil and gas."
     },
 
+ 
+    {
+        "name": "Kasisto",
+        "category": "Conversational AI",
+        "features": ["AI Chatbots", "Virtual Assistants", "Financial Services"],
+        "rating": 4.0,
+        "reviews": ["Effective in finance", "User-friendly bots"],
+        "description": "Kasisto provides conversational AI solutions with a focus on the financial sector. Their AI chatbots and virtual assistants enhance customer service and operational efficiency in banking and finance."
+    },
+
    {
         "name": "Kinetica",
         "category": "Data Analytics",
@@ -391,6 +421,15 @@
         "description": "OpsRamp offers an AI-driven IT operations management platform that provides comprehensive monitoring and incident management tools. Their solution helps IT teams detect, diagnose, and resolve issues quickly, ensuring the smooth operation of IT infrastructure."
     },
 
+     {
+        "name": "PathAI",
+        "category": "Medical Diagnostics",
+        "features": ["Pathology Analysis", "AI Diagnostics", "Clinical Research"],
+        "rating": 4.3,
+        "reviews": ["Accurate pathology diagnostics", "Supports clinical research"],
+        "description": "PathAI provides AI-based pathology analysis and diagnostics. Their technology assists pathologists in providing accurate diagnoses and supports clinical research by analyzing medical images and tissue samples."
+    },
+
  {
         "name": "Pipedrive",
         "category": "Sales CRM",
@@ -468,6 +507,15 @@
         "rating": 4.3,
         "reviews": ["Powerful AI hardware", "Scalable solutions"],
         "description": "SambaNova Systems develops advanced AI hardware with a focus on dataflow architecture and scalable AI solutions. Their AI accelerators are designed to handle complex AI workloads efficiently, providing robust support for AI research and deployment."
+    },
+
+{
+        "name": "Shield AI",
+        "category": "Defense AI",
+        "features": ["Autonomous Drones", "Surveillance Systems", "AI Navigation"],
+        "rating": 4.5,
+        "reviews": ["Advanced drone technology", "Reliable surveillance"],
+        "description": "Shield AI develops AI-powered defense technologies, including autonomous drones and surveillance systems. Their advanced AI navigation and control systems enhance the capabilities of defense operations."
     },
 
    {
@@ -570,9 +618,19 @@
         "name": "x.ai",
         "category": "Productivity AI",
         "features": ["Meeting Scheduling", "Calendar Management", "Email Integration"],
-        "rating": 4.1,
+        "rating": 4.0,
         "reviews": ["Great productivity tool", "Efficient scheduling"],
         "description": "x.ai provides AI-driven productivity tools, including meeting scheduling and calendar management. Their AI assistant automates the process of scheduling meetings and managing calendars, integrating seamlessly with email platforms to save users time and effort."
+    },
+{
+        "name": "Zebra Medical Vision",
+        "category": "Healthcare AI",
+        "features": ["Medical Imaging Analysis", "Disease Detection", "Clinical Decision Support"],
+        "rating": 4.3,
+        "reviews": ["Accurate imaging analysis", "Supports clinical decisions"],
+        "description": "Zebra Medical Vision offers AI-powered healthcare solutions, focusing on medical imaging analysis and disease detection. Their technology aids clinicians by providing accurate diagnostic insights and supporting clinical decision-making."
     }
+
+
     
 ]
