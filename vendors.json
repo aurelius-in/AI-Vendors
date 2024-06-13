@@ -80,7 +80,7 @@
         "rating": 4.7,
         "reviews": ["Pioneering AI safety", "Focused on ethical AI"],
         "description": "Anthropic focuses on AI safety and alignment research. Their mission is to ensure that AI systems are aligned with human values and operate safely, contributing to the development of ethical AI technologies."
-    }
+    },
     
      {
         "name": "Anyword",
@@ -837,7 +837,7 @@
         "rating": 4.4,
         "reviews": ["Robust data versioning", "Automated pipelines"],
         "description": "Pachyderm offers a platform for automating data pipelines with robust versioning and scalable storage. Their solutions support the creation of reproducible and efficient data workflows, enhancing data management for machine learning applications."
-    }
+    },
       {
         "name": "Pano AI",
         "category": "Disaster Management",
