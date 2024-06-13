@@ -1,9 +1,65 @@
 [
-   
-    
 
-    
-    
+
+    {
+        "name": "Kinetica",
+        "category": "Data Analytics",
+        "features": ["Real-time Analytics", "GPU-Accelerated Database", "AI Integration"],
+        "rating": 4.3,
+        "reviews": ["Fast analytics", "Seamless AI integration"],
+        "description": "Kinetica offers a GPU-accelerated database that enables real-time analytics and seamless AI integration. Their platform is designed to handle large datasets quickly, providing insights and analytics at unprecedented speeds."
+    },
+    {
+        "name": "SambaNova Systems",
+        "category": "AI Hardware",
+        "features": ["Dataflow Architecture", "AI Accelerators", "Scalable AI Solutions"],
+        "rating": 4.3,
+        "reviews": ["Powerful AI hardware", "Scalable solutions"],
+        "description": "SambaNova Systems develops advanced AI hardware with a focus on dataflow architecture and scalable AI solutions. Their AI accelerators are designed to handle complex AI workloads efficiently, providing robust support for AI research and deployment."
+    },
+    {
+        "name": "Landing AI",
+        "category": "Machine Learning",
+        "features": ["AI Training", "Deployment", "Industrial AI Solutions"],
+        "rating": 4.1,
+        "reviews": ["Effective training tools", "Great for industrial applications"],
+        "description": "Landing AI specializes in providing AI training and deployment solutions, particularly for industrial applications. Their tools help organizations develop and implement AI models that improve operational efficiency and product quality."
+    },
+    {
+        "name": "Aisera",
+        "category": "Conversational AI",
+        "features": ["AI Chatbots", "Virtual Assistants", "Automated Customer Support"],
+        "rating": 4.2,
+        "reviews": ["Excellent customer support", "Innovative virtual assistants"],
+        "description": "Aisera offers AI-driven conversational platforms for customer support, featuring AI chatbots and virtual assistants that automate and enhance customer interactions. Their solutions help businesses improve customer satisfaction and operational efficiency."
+    },
+    {
+        "name": "CrowdAI",
+        "category": "AI Data Labeling",
+        "features": ["Image Annotation", "Video Annotation", "Custom Training Data"],
+        "rating": 4.0,
+        "reviews": ["Flexible annotation tools", "Good customer support"],
+        "description": "CrowdAI offers flexible data labeling solutions for image and video annotation. Their tools allow for custom training data preparation, helping organizations build accurate AI models tailored to their specific needs."
+    },
+    {
+        "name": "Element AI",
+        "category": "AI Solutions",
+        "features": ["Custom AI Development", "Machine Learning", "AI Consulting"],
+        "rating": 4.1,
+        "reviews": ["Custom AI solutions", "Expert consulting"],
+        "description": "Element AI offers custom AI development and consulting services, providing tailored AI solutions for various industries. Their expertise in machine learning and AI deployment helps businesses integrate AI technologies effectively to achieve their strategic goals."
+    },
+    {
+        "name": "SparkCognition",
+        "category": "Industrial AI",
+        "features": ["Predictive Maintenance", "Asset Protection", "AI Analytics"],
+        "rating": 4.2,
+        "reviews": ["Improves asset reliability", "Innovative industrial solutions"],
+        "description": "SparkCognition specializes in industrial AI solutions, focusing on predictive maintenance, asset protection, and AI analytics. Their technology helps industries maintain operational efficiency and asset reliability."
+    }
+]
+
+   
         {
         "name": "Aisera",
         "category": "Conversational AI",
@@ -35,6 +91,15 @@
         "rating": 4.4,
         "reviews": ["Robust virtual assistants", "Excellent for voice AI"],
         "description": "Avaamo specializes in creating virtual assistants and bots with industry-specific skills. Their platform supports a wide range of conversational AI workflows, including voice AI solutions, making it versatile for different business applications."
+    },
+
+    {
+        "name": "BeyondMinds",
+        "category": "AI Platforms",
+        "features": ["AI Model Deployment", "Scalable Solutions", "Continuous Learning"],
+        "rating": 4.2,
+        "reviews": ["Reliable AI deployment", "Scalable and adaptive"],
+        "description": "BeyondMinds provides an AI platform that focuses on the deployment and scaling of AI models. Their solutions are designed to be reliable and continuously adaptive, ensuring that AI models remain effective as new data is introduced."
     },
 
 {
@@ -94,6 +159,15 @@
     },
 
 {
+        "name": "ClickUp",
+        "category": "Project Management",
+        "features": ["Task Management", "AI Summarization", "Time Prediction"],
+        "rating": 4.4,
+        "reviews": ["Boosts productivity", "Comprehensive AI features"],
+        "description": "ClickUp is a project management platform that integrates AI to enhance team productivity. It features a neural network, ClickUp Brain, which connects projects, documents, and people, providing AI-assisted task creation, summaries, and workload predictions."
+    },
+
+{
         "name": "Cresta",
         "category": "Contact Center AI",
         "features": ["Generative AI Solutions", "Agent Coaching", "Real-Time Analytics"],
@@ -141,11 +215,18 @@
         "name": "Element AI",
         "category": "AI Solutions",
         "features": ["Custom AI Development", "Machine Learning", "AI Consulting"],
-        "rating": 4.1,
+        "rating": 4.0,
         "reviews": ["Custom AI solutions", "Expert consulting"],
         "description": "Element AI offers custom AI development and consulting services, providing tailored AI solutions for various industries. Their expertise in machine learning and AI deployment helps businesses integrate AI technologies effectively to achieve their strategic goals."
     },
-
+{
+        "name": "Eviden",
+        "category": "Edge AI",
+        "features": ["Pre-trained Models", "Lifecycle Management", "Data Security"],
+        "rating": 4.2,
+        "reviews": ["Effective edge AI solutions", "Strong data security"],
+        "description": "Eviden provides end-to-end edge AI solutions, including pre-trained models and lifecycle management. Their platform focuses on delivering AI inferencing and analytics capabilities at the edge, addressing security and efficiency for enterprise applications."
+    },
 
   {
         "name": "Exponential AI",
@@ -166,12 +247,30 @@
     },
 
 {
+        "name": "Freshworks",
+        "category": "Customer Engagement",
+        "features": ["AI Chatbots", "Predictive Insights", "Anomaly Detection"],
+        "rating": 4.3,
+        "reviews": ["Intelligent customer support", "Streamlined marketing automation"],
+        "description": "Freshworks offers a suite of customer engagement tools enhanced by AI. Their products include AI chatbots, intelligent ticket routing, and predictive insights to optimize sales, marketing, and customer support functions."
+    },
+
+{
         "name": "Guise AI",
         "category": "Edge AI",
         "features": ["Edge Model Deployment", "No-Code Platform", "Unified Data Store"],
         "rating": 4.4,
         "reviews": ["Effective edge solutions", "User-friendly platform"],
         "description": "Guise AI provides solutions optimized for edge computing, offering a no-code platform for managing AI workloads and a unified data store for real-time model updates and deployment. Their focus on edge AI helps companies leverage data generated at the source."
+    },
+
+{
+        "name": "HubSpot",
+        "category": "CRM and Marketing",
+        "features": ["AI Task Automation", "Content Generation", "Data Analysis"],
+        "rating": 4.5,
+        "reviews": ["Powerful CRM tools", "AI-driven marketing automation"],
+        "description": "HubSpot provides a comprehensive CRM platform with AI features for marketing, sales, and customer service. The AI assistant in HubSpot automates tasks, optimizes workflows, and generates content to help businesses scale effectively."
     },
     
     {
@@ -237,6 +336,16 @@
         "description": "Ipsotek offers AI-driven video analytics solutions with a containerized microservices architecture. Their platform integrates with camera systems for real-time data processing and insights, making it suitable for industries like security, transportation, and oil and gas."
     },
 
+   {
+        "name": "Kinetica",
+        "category": "Data Analytics",
+        "features": ["GPU-Accelerated Database", "Real-time Analytics", "AI Integration"],
+        "rating": 4.3,
+        "reviews": ["Fast analytics", "Seamless AI integration"],
+        "description": "Kinetica offers a GPU-accelerated database that enables real-time analytics and seamless AI integration. Their platform is designed to handle large datasets quickly, providing insights and analytics at unprecedented speeds."
+    },
+
+
     {
         "name": "Laiye Chatbot",
         "category": "Conversational AI",
@@ -275,6 +384,15 @@
     },
 
 {
+     "name": "monday.com",
+        "category": "Work Management",
+        "features": ["Workload Management", "AI Optimization", "Automation"],
+        "rating": 4.4,
+        "reviews": ["User-friendly interface", "Effective AI recommendations"],
+        "description": "monday.com is a work operating system designed for managing projects and workflows. It features AI capabilities for workload management, automation recommendations, and content generation, making it a popular choice for collaborative work environments."
+    },
+
+{
         "name": "MSPbots",
         "category": "AI for Managed Services",
         "features": ["Process Automation", "Data Analytics", "Performance Monitoring"],
@@ -309,6 +427,14 @@
         "description": "OpsRamp offers an AI-driven IT operations management platform that provides comprehensive monitoring and incident management tools. Their solution helps IT teams detect, diagnose, and resolve issues quickly, ensuring the smooth operation of IT infrastructure."
     },
 
+ {
+        "name": "Pipedrive",
+        "category": "Sales CRM",
+        "features": ["AI Lead Scoring", "Sales Insights", "Actionable Recommendations"],
+        "rating": 4.1,
+        "reviews": ["Great for small businesses", "Smart sales assistant"],
+        "description": "Pipedrive is a sales CRM platform tailored for small and medium-sized businesses. Its AI assistant provides lead scoring, actionable insights, and sales activity recommendations to help businesses drive revenue."
+    },
 
         {
         "name": "PlayHT",
@@ -361,6 +487,15 @@
         "rating": 4.4,
         "reviews": ["Powerful video editing tools", "Seamless mobile app integration"],
         "description": "Runway offers a generative video editing platform that allows users to create video clips from text prompts. Their mobile app makes it easy to generate and edit videos on the go, making it a valuable tool for content creators and marketers."
+    },
+
+{
+        "name": "Salesforce",
+        "category": "Predictive Analytics",
+        "features": ["AI Predictions", "Customer Data Integration", "Sales Forecasting"],
+        "rating": 4.6,
+        "reviews": ["Industry-leading CRM", "Advanced predictive analytics"],
+        "description": "Salesforce is a leading CRM provider with AI-powered predictive analytics through its Einstein GPT. It delivers AI-driven predictions and insights across sales, customer service, and marketing to help businesses make data-driven decisions."
     },
 
    {
