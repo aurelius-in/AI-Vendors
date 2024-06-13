@@ -1,4 +1,10 @@
 [
+     
+    
+  
+    
+    
+
  
     
 
@@ -58,6 +64,15 @@
     },
 
 {
+        "name": "Clari",
+        "category": "Revenue Operations",
+        "features": ["Revenue Forecasting", "Pipeline Management", "Sales Analytics"],
+        "rating": 4.5,
+        "reviews": ["Accurate forecasting", "Improves sales efficiency"],
+        "description": "Clari uses AI to transform revenue operations, providing tools for forecasting, pipeline management, and sales analytics. Their platform helps sales teams predict outcomes and optimize their strategies, leading to more accurate forecasts and better sales performance."
+    },
+
+{
         "name": "Claroty",
         "category": "Industrial Cybersecurity",
         "features": ["Threat Detection", "Network Security", "Asset Visibility"],
@@ -73,6 +88,15 @@
         "reviews": ["Great for social media insights", "Powerful analytics tools"],
         "description": "Crimson Hexagon provides AI-powered social media analytics tools that help businesses understand audience sentiment, monitor trends, and gain actionable insights from social media data."
     },
+
+{
+        "name": "CrushBank",
+        "category": "AI for IT Support",
+        "features": ["AI-Driven Knowledge Management", "Help Desk Solutions", "Ticket Resolution"],
+        "rating": 4.5,
+        "reviews": ["Great for IT support", "Improves ticket resolution times"],
+        "description": "CrushBank leverages AI to enhance IT support through intelligent knowledge management systems. Their platform helps IT teams resolve tickets faster by providing relevant information and solutions, leading to improved efficiency and customer satisfaction."
+    },
     {
         "name": "DataRobot",
         "category": "Machine Learning",
@@ -81,6 +105,25 @@
         "reviews": ["User-friendly interface", "Excellent support"],
         "description": "DataRobot provides automated machine learning solutions that simplify the process of building and deploying predictive models. Their platform is designed to accelerate AI adoption, offering user-friendly interfaces and comprehensive support for various machine learning tasks."
     },
+
+  {
+        "name": "Exponential AI",
+        "category": "AI for Healthcare",
+        "features": ["Predictive Analytics", "Clinical Decision Support", "Patient Management"],
+        "rating": 4.4,
+        "reviews": ["Innovative healthcare solutions", "Improves patient outcomes"],
+        "description": "Exponential AI develops AI solutions for healthcare, focusing on predictive analytics and clinical decision support. Their platform assists healthcare providers in managing patient care more effectively, leading to improved outcomes and operational efficiency."
+    },
+
+{
+        "name": "Fractal Analytics",
+        "category": "AI for Data Analytics",
+        "features": ["Predictive Modeling", "Data Visualization", "Decision Support"],
+        "rating": 4.4,
+        "reviews": ["Powerful analytics tools", "Enhances decision-making"],
+        "description": "Fractal Analytics provides AI-powered data analytics solutions, including predictive modeling and data visualization. Their platform helps businesses make data-driven decisions by uncovering insights and trends from complex datasets, leading to better strategic outcomes."
+    },
+ 
     
     {
         "name": "Hugging Face",
@@ -124,6 +167,25 @@
         "reviews": ["User-friendly", "Powerful contextual routing"],
         "description": "Laiye offers a no-code platform for building conversational AI bots. Their solution includes real-time dashboards and intelligent routing capabilities, making it an efficient tool for managing customer interactions across multiple channels."
     },
+
+    {
+        "name": "LogicMonitor",
+        "category": "AI for IT Infrastructure",
+        "features": ["IT Monitoring", "Predictive Analytics", "Automated Issue Resolution"],
+        "rating": 4.4,
+        "reviews": ["Comprehensive monitoring tools", "Proactive issue detection"],
+        "description": "LogicMonitor offers a cloud-based platform for monitoring IT infrastructure, using AI to predict and resolve issues before they impact operations. Their solution ensures optimal performance and uptime for critical systems, making it ideal for large enterprises."
+    },
+
+{
+        "name": "MSPbots",
+        "category": "AI for Managed Services",
+        "features": ["Process Automation", "Data Analytics", "Performance Monitoring"],
+        "rating": 4.3,
+        "reviews": ["Excellent for MSPs", "Boosts operational efficiency"],
+        "description": "MSPbots provides AI-driven automation and analytics tools designed for managed service providers (MSPs). Their platform helps MSPs streamline processes, monitor performance, and gain actionable insights, leading to enhanced service delivery and customer satisfaction."
+    },
+
     {
         "name": "Nauto",
         "category": "AI for Automotive Safety",
@@ -140,6 +202,17 @@
         "reviews": ["Innovative technology", "Pioneers in AI"],
         "description": "OpenAI is a leader in generative AI, renowned for its development of advanced language models such as GPT-4. Their technologies are used across various applications, including chatbots, content creation, and automation, providing cutting-edge solutions for businesses."
     },
+
+{
+        "name": "OpsRamp",
+        "category": "IT Operations Management",
+        "features": ["AI-Driven Monitoring", "Incident Management", "Automation"],
+        "rating": 4.3,
+        "reviews": ["Robust monitoring tools", "Effective incident management"],
+        "description": "OpsRamp offers an AI-driven IT operations management platform that provides comprehensive monitoring and incident management tools. Their solution helps IT teams detect, diagnose, and resolve issues quickly, ensuring the smooth operation of IT infrastructure."
+    },
+
+
         {
         "name": "PlayHT",
         "category": "Text-to-Speech",
@@ -164,6 +237,16 @@
         "reviews": ["Great for marketing videos", "Easy avatar customization"],
         "description": "Rephrase AI provides a platform for creating videos from text inputs. Users can select avatars, backgrounds, and voices to generate personalized video content, which is particularly useful for marketing and sales presentations."
     },
+
+{
+        "name": "Rewst",
+        "category": "Robotic Process Automation",
+        "features": ["Workflow Automation", "Integration with ITSM", "Customizable Bots"],
+        "rating": 4.2,
+        "reviews": ["Efficient workflow automation", "User-friendly bot customization"],
+        "description": "Rewst specializes in robotic process automation (RPA), offering tools to automate repetitive tasks and workflows. Their platform integrates seamlessly with IT service management (ITSM) systems, enabling businesses to customize bots for various automation needs."
+    },
+
 {
         "name": "Runway",
         "category": "Video Editing",
