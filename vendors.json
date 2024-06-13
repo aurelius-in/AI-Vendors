@@ -1,6 +1,7 @@
 [
     
     
+
     
 {
         "name": "Aible",
@@ -71,6 +72,15 @@
         "reviews": ["User-friendly interface", "Comprehensive ML tools"],
         "description": "BigML is a machine learning platform that offers a wide range of tools for data preprocessing, model training, and predictive analytics. Their user-friendly interface makes it easy for businesses to harness the power of machine learning for data-driven decision-making."
     },
+
+    {
+        "name": "Blue Eagle Robotics",
+        "category": "Remote Robotics",
+        "features": ["Remote Operations", "AI Control Systems", "Robotic Automation"],
+        "rating": 4.7,
+        "reviews": ["Efficient remote operations", "User-friendly interface"],
+        "description": "Blue Eagle Robotics focuses on developing AI systems for innovative robotic tools. Their technology allows operators to control robots from a distance, enhancing safety and efficiency in hazardous environments such as underwater and space exploration."
+    },
     
     {
         "name": "Blue River Technology",
@@ -91,7 +101,14 @@
         "description": "C3 AI specializes in enterprise AI, providing an extensive suite of tools designed for predictive analytics and industry-specific solutions. Their AI suite helps businesses leverage AI to enhance operational efficiency and drive innovation through tailored AI applications."
     },
 
-
+ {
+        "name": "Cerebras Systems",
+        "category": "AI Hardware",
+        "features": ["AI Accelerators", "Deep Learning", "High-performance Computing"],
+        "rating": 4.5,
+        "reviews": ["Innovative AI hardware", "Exceptional performance"],
+        "description": "Cerebras Systems specializes in AI hardware, offering high-performance AI accelerators designed for deep learning and complex computations. Their cutting-edge technology supports large-scale AI model training, making significant advancements in AI hardware capabilities."
+    },
  
     {
         "name": "Chatbase",
@@ -101,6 +118,16 @@
         "reviews": ["Effective website chatbot", "Easy to integrate"],
         "description": "Chatbase offers a ChatGPT-like chatbot that can be integrated into any website. It functions as a traditional widget, providing instant answers to customer queries and enhancing website interactivity and customer support efficiency."
     },
+
+    {
+        "name": "Check Point",
+        "category": "Cybersecurity",
+        "features": ["Threat Detection", "Prevention Platforms", "AI-driven Analysis"],
+        "rating": 4.2,
+        "reviews": ["Comprehensive threat prevention", "Strong integration capabilities"],
+        "description": "Check Point specializes in AI-driven cybersecurity solutions, including threat detection and prevention platforms. Their AI-based systems like Campaign Hunting, Huntress, and CADET provide advanced threat intelligence, sandbox analysis, and network monitoring, enhancing overall security posture."
+    },
+    
 {
         "name": "Clari",
         "category": "Revenue Operations",
@@ -135,6 +162,14 @@
         "rating": 4.1,
         "reviews": ["Effective decision support", "Improves risk management"],
         "description": "CognitiveScale specializes in augmented intelligence solutions, offering tools for decision augmentation, AI-driven insights, and risk management. Their platform enhances human decision-making by providing contextual and actionable insights."
+    },
+{
+        "name": "Cohesity",
+        "category": "Data Management",
+        "features": ["Data Backup", "AI-Driven Analytics", "Data Recovery"],
+        "rating": 4.1,
+        "reviews": ["Reliable data backup", "Comprehensive data analytics"],
+        "description": "Cohesity provides AI-enhanced data management solutions, including data backup, recovery, and analytics. Their platform ensures data availability and security, helping organizations leverage their data more effectively."
     },
 
 
@@ -199,6 +234,14 @@
         "reviews": ["High accuracy", "Real-time capabilities"],
         "description": "Deep Vision provides advanced computer vision solutions, including image recognition, object detection, and real-time processing. Their technology is used in various applications, from security to retail, offering high accuracy and efficient real-time processing capabilities."
     },
+{
+        "name": "DefinedCrowd",
+        "category": "AI Data Services",
+        "features": ["Data Annotation", "Data Collection", "AI Training Data"],
+        "rating": 4.0,
+        "reviews": ["High-quality training data", "Efficient data services"],
+        "description": "DefinedCrowd offers AI data services, specializing in data annotation and collection for training AI models. Their high-quality datasets enable businesses to build accurate and reliable AI systems."
+    },
 
 {
         "name": "Deserve",
@@ -253,6 +296,15 @@
         "description": "Freshworks offers a suite of customer engagement tools enhanced by AI. Their products include AI chatbots, intelligent ticket routing, and predictive insights to optimize sales, marketing, and customer support functions."
     },
 
+  {
+        "name": "Graphcore",
+        "category": "AI Hardware",
+        "features": ["Intelligent Processing Units", "Deep Learning", "High-efficiency Computing"],
+        "rating": 4.4,
+        "reviews": ["High-efficiency AI hardware", "Strong performance"],
+        "description": "Graphcore is known for its Intelligent Processing Units (IPUs) that enhance deep learning and AI computations. Their high-efficiency AI hardware solutions are designed to accelerate AI model training and deployment, offering significant performance improvements."
+    },
+    
 {
         "name": "Guise AI",
         "category": "Edge AI",
@@ -426,6 +478,24 @@
         "reviews": ["Enhances driver safety", "Effective collision prevention"],
         "description": "Nauto uses AI to improve automotive safety by monitoring driver behavior and providing real-time alerts to prevent collisions. Their solutions enhance fleet safety and reduce accident-related costs."
     },
+{
+        "name": "Nexar",
+        "category": "AI Dashcams",
+        "features": ["Real-time Dashcam AI", "Accident Detection", "Driver Safety"],
+        "rating": 4.1,
+        "reviews": ["Enhances driver safety", "Reliable accident detection"],
+        "description": "Nexar offers AI-driven dashcams that provide real-time monitoring and accident detection. Their solutions improve driver safety by alerting users to potential hazards and recording incidents, making them useful for personal and commercial vehicle fleets."
+    },
+
+    {
+        "name": "Olis Robotics",
+        "category": "Remote Robotics",
+        "features": ["Remote Operations", "AI Control Systems", "Robotic Automation"],
+        "rating": 3.7,
+        "reviews": ["Efficient remote operations", "User-friendly interface"],
+        "description": "Olis Robotics focuses on developing AI systems for remote robotic operations. Their technology allows operators to control robots from a distance, enhancing safety and efficiency in hazardous environments such as underwater and space exploration."
+    },
+    
     {
         "name": "OpenAI",
         "category": "Generative AI",
@@ -444,6 +514,8 @@
         "description": "OpsRamp offers an AI-driven IT operations management platform that provides comprehensive monitoring and incident management tools. Their solution helps IT teams detect, diagnose, and resolve issues quickly, ensuring the smooth operation of IT infrastructure."
     },
 
+    
+
      {
         "name": "PathAI",
         "category": "Medical Diagnostics",
@@ -453,6 +525,15 @@
         "description": "PathAI provides AI-based pathology analysis and diagnostics. Their technology assists pathologists in providing accurate diagnoses and supports clinical research by analyzing medical images and tissue samples."
     },
 
+{
+        "name": "Petuum",
+        "category": "AI Platforms",
+        "features": ["AI Orchestration", "Machine Learning", "End-to-End Solutions"],
+        "rating": 4.2,
+        "reviews": ["Comprehensive AI platform", "Efficient orchestration tools"],
+        "description": "Petuum provides an AI orchestration platform that simplifies the deployment and management of machine learning models. Their end-to-end solutions support a variety of AI applications, enabling efficient orchestration and scaling of AI projects."
+    },
+    
  {
         "name": "Pipedrive",
         "category": "Sales CRM",
@@ -471,6 +552,14 @@
         "description": "PlayHT offers a text-to-speech platform that converts written text into human-like audio. With support for over 800 voices in 130+ languages, it is ideal for creating voiceovers for videos, podcasts, and e-learning materials."
     },
 
+{
+        "name": "Pony.ai",
+        "category": "Autonomous Vehicles",
+        "features": ["Self-Driving Technology", "Fleet Management", "AI Navigation"],
+        "rating": 4.4,
+        "reviews": ["Advanced autonomous tech", "Reliable fleet solutions"],
+        "description": "Pony.ai develops cutting-edge self-driving technology and fleet management solutions. Their AI-driven navigation systems are designed for seamless integration into autonomous vehicles, enhancing safety and efficiency in transportation."
+    },
 {
         "name": "Primer",
         "category": "Data Analytics",
@@ -550,6 +639,15 @@
         "description": "Sift provides AI-driven fraud prevention solutions that monitor transactions, authenticate users, and generate risk scores to prevent fraudulent activities and secure online transactions."
     },
 
+    {
+        "name": "Sophos",
+        "category": "Cybersecurity",
+        "features": ["Antivirus", "Endpoint Protection", "AI-based Threat Detection"],
+        "rating": 3.8,
+        "reviews": ["Effective endpoint protection", "User-friendly interface"],
+        "description": "Sophos provides AI-powered cybersecurity solutions, including antivirus and endpoint protection. Their AI-based threat detection capabilities enhance security by identifying and mitigating threats in real-time, making them a reliable choice for comprehensive cybersecurity."
+    },
+
 {
         "name": "SparkCognition",
         "category": "Industrial AI",
@@ -593,6 +691,15 @@
         "description": "Sudowrite provides AI-driven tools for novel writing and storytelling. Their platform includes a 'Story Engine' that generates text based on user inputs, helping writers develop plots, characters, and narrative arcs with ease."
     },
 
+    {
+        "name": "Symantec",
+        "category": "Cybersecurity",
+        "features": ["Advanced Threat Protection", "AI-based Detection", "Network Security"],
+        "rating": 4.0,
+        "reviews": ["Reliable network security", "Innovative AI tools"],
+        "description": "Symantec offers robust AI-based cybersecurity solutions with products like Targeted Attack Analytics (TAA) that use machine learning to detect anomalies and threats. Their Cyber Defense Platform integrates AI capabilities to provide comprehensive network security and threat prevention."
+    },
+
 {
         "name": "Tamr",
         "category": "Data Integration",
@@ -610,6 +717,14 @@
         "description": "Tars provides conversational AI solutions for automating customer self-service processes. Their platform integrates natural language processing and machine learning, offering secure and customizable automation workflows for various business needs."
     },
 
+        {
+        "name": "TuSimple",
+        "category": "Autonomous Trucking",
+        "features": ["Self-Driving Trucks", "Fleet Management", "AI Navigation"],
+        "rating": 4.4,
+        "reviews": ["Advanced autonomous tech", "Reliable fleet solutions"],
+        "description": "TuSimple develops autonomous trucking technology with AI-driven navigation systems. Their solutions are designed to improve the safety and efficiency of long-haul trucking operations."
+    },
         
     {
         "name": "Uptake",
